@@ -1,5 +1,0 @@
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\LakesCanFreeze\1.3\Assemblies\UdderlyEvelyn.LakesCanFreeze.dll
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\LakesCanFreeze\1.3\Source\LakesCanFreeze\obj\Release\LakesCanFreeze.csproj.CoreCompileInputs.cache
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\LakesCanFreeze\1.3\Source\LakesCanFreeze\obj\Release\UdderlyEvelyn.LakesCanFreeze.dll
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\LakesCanFreeze\1.3\Source\LakesCanFreeze\obj\Release\LakesCanFreeze.csproj.AssemblyReference.cache
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\LakesCanFreeze\1.3\Source\LakesCanFreeze\obj\Release\LakesCanFreeze.csproj.CopyComplete
